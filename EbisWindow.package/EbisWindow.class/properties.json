@@ -1,0 +1,19 @@
+{
+	"category" : "EbisWindow",
+	"classinstvars" : [
+		"window",
+		"scrollPane",
+		"pasteUpMorph",
+		"demotext" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ebi 1/17/2020 16:44",
+	"instvars" : [
+		"entryTextMorph",
+		"promptMorph",
+		"resultMorph" ],
+	"name" : "EbisWindow",
+	"pools" : [
+		 ],
+	"super" : "SystemWindow",
+	"type" : "normal" }
